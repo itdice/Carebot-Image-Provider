@@ -1,1 +1,3 @@
-# A102 프로젝트
+# Carebot Image Provider
+
+Image Provider for Carebot Platform
