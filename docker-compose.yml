@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   image-provider:
-    build: Image-server
+    build: .
     container_name: image-provider
     hostname: image-provider
     restart: unless-stopped
